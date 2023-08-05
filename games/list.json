@@ -629,5 +629,11 @@
     "fontSize": 18,
     "link": "https://cornandbutter.github.io/games/football.html",
     "image": "/games/images/Football.png"
+  },
+    {
+    "name": "A Dance of Fire and Ice",
+    "fontSize": 14,
+    "link": "https://cornandbutter.github.io/games/adance/index.html",
+    "image": "/games/images/fireandice.png"
   }
 ]
