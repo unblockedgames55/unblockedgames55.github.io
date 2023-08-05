@@ -84,12 +84,6 @@
     "image": "/games/images/GravitySoccer3.png"
   },
   {
-    "name": "Vex 6",
-    "fontSize": 20,
-    "link": "https://cornandbutter.github.io/3kh0v3/projects/vex6/index.html",
-    "image": "/games/images/Vex6.jpg"
-  },
-  {
     "name": "BasketBros.io",
     "fontSize": 20,
     "link": "https://cornandbutter.github.io/3kh0v3/projects/basketbros-io/index.html",
@@ -593,5 +587,47 @@
     "fontSize": 20,
     "link": "https://cornandbutter.github.io/games/SortieEnMer/index.html",
     "image": "/games/images/SortieEnMer.jpg"
+  },
+  {
+    "name": "Vex",
+    "fontSize": 20,
+    "link": "https://cornandbutter.github.io/games/vex.html",
+    "image": "/games/images/Vex.png"
+  },
+  {
+    "name": "Vex 3",
+    "fontSize": 20,
+    "link": "https://cornandbutter.github.io/3kh0v3/projects/vex3/index.html",
+    "image": "/games/images/Vex3.png"
+  },
+  {
+    "name": "Vex 4",
+    "fontSize": 20,
+    "link": "https://cornandbutter.github.io/3kh0v3/projects/vex4/index.html",
+    "image": "/games/images/Vex4.png"
+  },
+  {
+    "name": "Vex 5",
+    "fontSize": 20,
+    "link": "https://cornandbutter.github.io/3kh0v3/projects/vex5/index.html",
+    "image": "/games/images/Vex5.jpeg"
+  },
+  {
+    "name": "Vex 6",
+    "fontSize": 20,
+    "link": "https://cornandbutter.github.io/3kh0v3/projects/vex6/index.html",
+    "image": "/games/images/Vex6.jpg"
+  },
+  {
+    "name": "Vex 7",
+    "fontSize": 20,
+    "link": "https://cornandbutter.github.io/3kh0v3/projects/vex5/index.html",
+    "image": "/games/images/Vex7.jpeg"
+  },
+  {
+    "name": "4th & Goal 2022",
+    "fontSize": 18,
+    "link": "https://cornandbutter.github.io/games/football.html",
+    "image": "/games/images/Football.png"
   }
 ]
