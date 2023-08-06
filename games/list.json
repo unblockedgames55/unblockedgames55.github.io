@@ -636,10 +636,16 @@
     "link": "https://cornandbutter.github.io/games/adance/index.html",
     "image": "/games/images/fireandice.png"
   },
-    {
+  {
     "name": "Awesome Tanks",
     "fontSize": 20,
     "link": "https://cornandbutter.github.io/games/awesometanks.html",
     "image": "/games/images/awesometanks.png"
+  },
+  {
+    "name": "Jelly Truck",
+    "fontSize": 20,
+    "link": "https://cornandbutter.github.io/games/jellytruck.html",
+    "image": "/games/images/JellyTruck.png"
   }
 ]
