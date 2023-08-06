@@ -686,13 +686,13 @@
   },
   {
     "name": "Cannon Basketball",
-    "fontSize": 20,
+    "fontSize": 18,
     "link": "https://cornandbutter.github.io/games/cannonbasketball.html",
     "image": "/games/images/CannonBasketball.png"
   },
   {
     "name": "Cannon Basketball 2",
-    "fontSize": 20,
+    "fontSize": 16,
     "link": "https://cornandbutter.github.io/games/cannonbasketball2.html",
     "image": "/games/images/CannonBasketball2.jpg"
   }
