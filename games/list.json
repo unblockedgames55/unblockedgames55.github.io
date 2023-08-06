@@ -665,5 +665,11 @@
     "fontSize": 20,
     "link": "https://cornandbutter.github.io/games/supermariorun.html",
     "image": "/games/images/supermariorun.png"
+  },
+  {
+    "name": "Helix Jump",
+    "fontSize": 20,
+    "link": "https://cornandbutter.github.io/games/helixjump.html",
+    "image": "/games/images/HelixJump.png"
   }
 ]
