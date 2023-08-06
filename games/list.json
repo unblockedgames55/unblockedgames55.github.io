@@ -683,5 +683,17 @@
     "fontSize": 12,
     "link": "https://cornandbutter.github.io/games/bigneontower/index.html",
     "image": "/games/images/bigneontowertinysquare.png"
+  },
+  {
+    "name": "Cannon Basketball",
+    "fontSize": 20,
+    "link": "https://cornandbutter.github.io/games/cannonbasketball.html",
+    "image": "/games/images/CannonBasketball.png"
+  },
+  {
+    "name": "Cannon Basketball 2",
+    "fontSize": 20,
+    "link": "https://cornandbutter.github.io/games/cannonbasketball2.html",
+    "image": "/games/images/CannonBasketball2.jpg"
   }
 ]
