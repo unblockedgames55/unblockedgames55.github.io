@@ -671,5 +671,17 @@
     "fontSize": 20,
     "link": "https://cornandbutter.github.io/games/helixjump.html",
     "image": "/games/images/HelixJump.png"
+  },
+  {
+    "name": "Big Tower Tiny Square",
+    "fontSize": 14,
+    "link": "https://cornandbutter.github.io/3kh0v3/projects/btts/index.html",
+    "image": "/games/images/bigtowertinysquare.png"
+  },
+  {
+    "name": "Big NEON Tower VS Tiny Square",
+    "fontSize": 12,
+    "link": "https://cornandbutter.github.io/games/bigneontower/index.html",
+    "image": "/games/images/bigneontowertinysquare.png"
   }
 ]
