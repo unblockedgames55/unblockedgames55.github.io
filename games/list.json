@@ -647,5 +647,11 @@
     "fontSize": 20,
     "link": "https://cornandbutter.github.io/games/jellytruck.html",
     "image": "/games/images/JellyTruck.png"
+  },
+  {
+    "name": "circloO",
+    "fontSize": 20,
+    "link": "https://cornandbutter.github.io/games/circloo/index.html",
+    "image": "/games/images/circlo.png"
   }
 ]
