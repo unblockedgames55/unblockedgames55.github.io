@@ -653,5 +653,11 @@
     "fontSize": 20,
     "link": "https://cornandbutter.github.io/games/circloo/index.html",
     "image": "/games/images/circlo.png"
+  },
+  {
+    "name": "Save My Pet",
+    "fontSize": 20,
+    "link": "https://cornandbutter.github.io/games/savemypet.html",
+    "image": "/games/images/SaveMyPet.jpg"
   }
 ]
