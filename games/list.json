@@ -659,5 +659,11 @@
     "fontSize": 20,
     "link": "https://cornandbutter.github.io/games/savemypet.html",
     "image": "/games/images/SaveMyPet.jpg"
+  },
+  {
+    "name": "Super Mario Run",
+    "fontSize": 20,
+    "link": "https://cornandbutter.github.io/games/supermariorun.html",
+    "image": "/games/images/supermariorun.png"
   }
 ]
