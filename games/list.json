@@ -695,5 +695,11 @@
     "fontSize": 16,
     "link": "https://cornandbutter.github.io/games/cannonbasketball2.html",
     "image": "/games/images/CannonBasketball2.jpg"
+  },
+  {
+    "name": "Roblox [BETA]",
+    "fontSize": 20,
+    "link": "https://speedsgames.github.io/extras/robloxlauncherbeta/",
+    "image": "/games/images/Roblox.png"
   }
 ]
