@@ -695,17 +695,5 @@
     "fontSize": 16,
     "link": "https://cornandbutter.github.io/games/cannonbasketball2.html",
     "image": "/games/images/CannonBasketball2.jpg"
-  },
-  {
-    "name": "Now.GG",
-    "fontSize": 20,
-    "link": "https://speedsgames.github.io/extras/nowgg/",
-    "image": "/games/images/nowGG.png"
-  },
-  {
-    "name": "Shuttle TV",
-    "fontSize": 20,
-    "link": "https://speedsgames.github.io/extras/shuttletv/",
-    "image": "/games/images/shuttleTV.png"
   }
 ]
