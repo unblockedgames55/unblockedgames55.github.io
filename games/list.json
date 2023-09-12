@@ -695,5 +695,11 @@
     "fontSize": 16,
     "link": "https://cornandbutter.github.io/games/cannonbasketball2.html",
     "image": "/games/images/CannonBasketball2.jpg"
+  },
+  {
+    "name": "Happy Wheels",
+    "fontSize": 18,
+    "link": "https://cornandbutter.github.io/games2/happywheels/index.html",
+    "image": "/games/images/happyWheels.png"
   }
 ]
