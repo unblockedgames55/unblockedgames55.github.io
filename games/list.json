@@ -701,5 +701,11 @@
     "fontSize": 18,
     "link": "https://cornandbutter.github.io/games2/happywheels/index.html",
     "image": "/games/images/happyWheels.png"
+  },
+  {
+    "name": "1v1.LOL (OG)",
+    "fontSize": 18,
+    "link": "https://cornandbutter.github.io/games2/1v1lolOG.html",
+    "image": "/games/images/1v1lolOG.png"
   }
 ]
