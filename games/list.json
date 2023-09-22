@@ -713,5 +713,11 @@
     "fontSize": 18,
     "link": "https://cornandbutter.github.io/3kh0v3/projects/baldis-basics/index.html",
     "image": "images/baldis.png"
+  },
+  {
+    "name": "SWOOOP",
+    "fontSize": 20,
+    "link": "https://cornandbutter.github.io/swooop/index.html",
+    "image": "images/swooop.jpeg"
   }
 ]
