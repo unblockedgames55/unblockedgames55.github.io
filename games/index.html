@@ -206,7 +206,7 @@
             window.open(game.link, '_blank');
           } else {
             const gameWindow = window.open('about:blank', '_blank');
-	    gameWindow.document.title = '\u26A1 ' + game.name + ' \u26A1';
+	    gameWindow.document.title = ' ';
             const gameEmbed = document.createElement("iframe");
             gameEmbed.src = game.link;
 	    gameEmbed.setAttribute("allowfullscreen", "true");
