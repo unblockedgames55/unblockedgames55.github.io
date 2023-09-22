@@ -235,6 +235,10 @@
         gameImage.src = game.image;
         gameImage.alt = game.name;
         gameImage.classList.add("game-image");
+	gameImage.addEventListener("contextmenu", (e) => {
+  	  e.preventDefault();
+	});
+	
 
         const gameName = document.createElement("div");
         gameName.textContent = game.name;
