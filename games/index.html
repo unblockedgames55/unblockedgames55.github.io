@@ -235,16 +235,19 @@
         gameImage.src = game.image;
         gameImage.alt = game.name;
         gameImage.classList.add("game-image");
-	gameImage.addEventListener("contextmenu", (e) => {
+
+	const gameImageContainer = document.createElement("div");
+  	gameImageContainer.classList.add("game-image-container");
+	gameImageContainer.addEventListener("contextmenu", (e) => {
   	  e.preventDefault();
 	});
-	
 
         const gameName = document.createElement("div");
         gameName.textContent = game.name;
         gameName.style.fontSize = game.fontSize + "px";
         gameName.classList.add("game-name");
 
+	gameContainer.appendChild(gameImageContainer);
         gameContainer.appendChild(gameImage);
         gameContainer.appendChild(gameName);
         gamesContainer.appendChild(gameContainer);
