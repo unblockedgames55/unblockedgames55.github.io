@@ -719,5 +719,11 @@
     "fontSize": 20,
     "link": "https://cornandbutter.github.io/swooop/index.html",
     "image": "images/swooop.jpeg"
+  },
+ {
+    "name": "Friday Night Funkin'",
+    "fontSize": 16,
+    "link": "https://cornandbutter.github.io/fridaynightfunkin/index.html",
+    "image": "images/fridaynightfunkin.png"
   }
 ]
