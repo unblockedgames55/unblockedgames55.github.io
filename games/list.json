@@ -327,80 +327,86 @@
   {
     "name": "Papa's Pizzeria",
     "fontSize": 20,
-    "link": "https://cornandbutter.github.io/games/papas/pizzeria.html",
+    "link": "https://cornandbutter.github.io/papas/pizzeria/index.html",
     "image": "images/PapasPizzeria.jpg"
   },
   {
     "name": "Papa's Burgeria",
     "fontSize": 20,
-    "link": "https://cornandbutter.github.io/games/papas/burgeria.html",
+    "link": "https://cornandbutter.github.io/papas/burgeria/index.html",
     "image": "images/PapasBurgeria.png"
   },
   {
     "name": "Papa's Cheeseria",
     "fontSize": 20,
-    "link": "https://cornandbutter.github.io/games/papas/cheeseria.html",
+    "link": "https://cornandbutter.github.io/papas/cheeseria/index.html",
     "image": "images/PapasCheeseria.png"
   },
   {
     "name": "Papa's Cupcakeria",
     "fontSize": 18,
-    "link": "https://cornandbutter.github.io/games/papas/cupcakeria.html",
+    "link": "https://cornandbutter.github.io/papas/cupcakeria/index.html",
     "image": "images/PapasCupcakeria.jpg"
   },
   {
     "name": "Papa's Donuteria",
     "fontSize": 20,
-    "link": "https://cornandbutter.github.io/games/papas/donuteria.html",
+    "link": "https://cornandbutter.github.io/papas/donuteria/index.html",
     "image": "images/PapasDonuteria.png"
   },
   {
     "name": "Papa's Freezeria",
     "fontSize": 20,
-    "link": "https://cornandbutter.github.io/games/papas/freezeria.html",
+    "link": "https://cornandbutter.github.io/papas/freezeria/index.html",
     "image": "images/PapasFreezeria.png"
   },
   {
     "name": "Papa's Hot Doggeria",
     "fontSize": 16,
-    "link": "https://cornandbutter.github.io/games/papas/hotdoggeria.html",
+    "link": "https://cornandbutter.github.io/papas/hotdoggeria/index.html",
     "image": "images/PapasHotDoggeria.jpg"
   },
   {
     "name": "Papa's Pancakeria",
     "fontSize": 18,
-    "link": "https://cornandbutter.github.io/games/papas/pancakeria.html",
+    "link": "https://cornandbutter.github.io/papas/pancakeria/index.html",
     "image": "images/PapasPancakeria.jpg"
   },
   {
     "name": "Papa's Pastaria",
     "fontSize": 20,
-    "link": "https://cornandbutter.github.io/games/papas/pastaria.html",
+    "link": "https://cornandbutter.github.io/papas/pastaria/index.html",
     "image": "images/PapasPastaria.png"
   },
   {
     "name": "Papa's Scooperia",
     "fontSize": 20,
-    "link": "https://cornandbutter.github.io/games/papas/scooperia.html",
+    "link": "https://cornandbutter.github.io/papas/scooperia/index.html",
     "image": "images/PapasScooperia.png"
   },
   {
     "name": "Papa's Sushiria",
     "fontSize": 20,
-    "link": "https://cornandbutter.github.io/games/papas/sushiria.html",
+    "link": "https://cornandbutter.github.io/papas/sushiria/index.html",
     "image": "images/PapasSushiria.jpg"
   },
   {
     "name": "Papa's Taco Mia!",
     "fontSize": 20,
-    "link": "https://cornandbutter.github.io/games/papas/tacomia.html",
+    "link": "https://cornandbutter.github.io/papas/tacomia/index.html",
     "image": "images/PapasTacoMia.png"
   },
   {
     "name": "Papa's Wingeria",
     "fontSize": 20,
-    "link": "https://cornandbutter.github.io/games/papas/wingeria.html",
+    "link": "https://cornandbutter.github.io/papas/wingeria/index.html",
     "image": "images/PapasWingeria.png"
+  },
+  {
+    "name": "Papa's Bakeria",
+    "fontSize": 20,
+    "link": "https://cornandbutter.github.io/papas/vakeria/index.html",
+    "image": "images/PapasBakeria.jpeg"
   },
   {
     "name": "TABS",
