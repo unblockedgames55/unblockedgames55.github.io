@@ -743,5 +743,23 @@
     "fontSize": 18,
     "link": "https://cornandbutter.github.io/games2/skibidi-shooter/index.html",
     "image": "images/skibidishooter.png"
+  },
+  {
+    "name": "Papa Louie",
+    "fontSize": 20,
+    "link": "https://cornandbutter.github.io/papas/louie/index.html",
+    "image": "images/papa1.jpg"
+  },
+  {
+    "name": "Papa Louie 2",
+    "fontSize": 20,
+    "link": "https://cornandbutter.github.io/papas/louie2/index.html",
+    "image": "images/papa2.jpg"
+  },
+  {
+    "name": "Papa Louie 3",
+    "fontSize": 20,
+    "link": "https://cornandbutter.github.io/papas/louie3/index.html",
+    "image": "images/papa3.jpg"
   }
 ]
