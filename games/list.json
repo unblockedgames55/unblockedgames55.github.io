@@ -737,5 +737,11 @@
     "fontSize": 20,
     "link": "https://speedsgames.github.io/extras/basket-and-ball",
     "image": "images/basketandball.png"
+  },
+  {
+    "name": "Skibidi Shooter",
+    "fontSize": 16,
+    "link": "https://cornandbutter.github.io/games2/skibidi-shooter/index.html",
+    "image": "images/skibidishooter.png"
   }
 ]
