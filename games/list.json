@@ -761,5 +761,17 @@
     "fontSize": 20,
     "link": "https://cornandbutter.github.io/papas/louie3/index.html",
     "image": "images/papa3.jpg"
+  },
+  {
+    "name": "Five Nights at Freddy's",
+    "fontSize": 14,
+    "link": "https://cornandbutter.github.io/fnaf/1/index.html",
+    "image": "images/fnaf1.jpg"
+  },
+  {
+    "name": "Five Nights at Freddy's 2",
+    "fontSize": 13,
+    "link": "https://cornandbutter.github.io/fnaf/2/index.html",
+    "image": "images/fnaf2.png"
   }
 ]
