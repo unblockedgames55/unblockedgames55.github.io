@@ -601,6 +601,12 @@
     "image": "images/Vex.png"
   },
   {
+    "name": "Vex 2",
+    "fontSize": 20,
+    "link": "https://cornandbutter.github.io/games2/vex2/index.html",
+    "image": "images/vex2.jpg"
+  },
+  {
     "name": "Vex 3",
     "fontSize": 20,
     "link": "https://cornandbutter.github.io/3kh0v3/projects/vex3/index.html",
