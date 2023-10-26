@@ -781,6 +781,12 @@
     "image": "images/fnaf2.png"
   },
   {
+    "name": "Five Nights at Freddy's 3",
+    "fontSize": 13,
+    "link": "https://cornandbutter.github.io/fnaf/3/index.html",
+    "image": "images/fnaf3.png"
+  },
+  {
     "name": "Five Nights at Freddy's: UCN",
     "fontSize": 12,
     "link": "https://cornandbutter.github.io/fnaf/ucn/index.html",
