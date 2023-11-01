@@ -796,5 +796,11 @@
     "fontSize": 16,
     "link": "https://cornandbutter.github.io/games2/axisfootball/index.html",
     "image": "images/axisfootball.png"
+  },
+  {
+    "name": "Bottle Flip 3D",
+    "fontSize": 18,
+    "link": "https://cornandbutter.github.io/games2/bottleflip3d/index.html",
+    "image": "images/bottleflip.png"
   }
 ]
