@@ -802,5 +802,11 @@
     "fontSize": 18,
     "link": "https://cornandbutter.github.io/games2/bottleflip3d/index.html",
     "image": "images/bottleflip.png"
+  },
+  {
+    "name": "Google Snake",
+    "fontSize": 20,
+    "link": "https://www.google.com/fbx?fbx=snake_arcade",
+    "image": "images/snake.png"
   }
 ]
