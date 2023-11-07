@@ -808,5 +808,11 @@
     "fontSize": 20,
     "link": "https://cornandbutter.github.io/games2/snake.html",
     "image": "images/snake.png"
+  },
+  {
+    "name": "Tap Goal",
+    "fontSize": 20,
+    "link": "https://cornandbutter.github.io/games2/tapgoal/index.html",
+    "image": "images/tapgoal.png"
   }
 ]
