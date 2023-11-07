@@ -820,5 +820,11 @@
     "fontSize": 18,
     "link": "https://cornandbutter.github.io/games2/mario64/index.html",
     "image": "images/sm64.jpg"
+  },
+  {
+    "name": "Mario Kart 64",
+    "fontSize": 18,
+    "link": "https://cornandbutter.github.io/webretro/index.html?core=mupen64plus_next&rom=mk64.z64",
+    "image": "images/mk64.jpg"
   }
 ]
