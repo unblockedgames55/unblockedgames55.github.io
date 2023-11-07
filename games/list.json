@@ -814,5 +814,11 @@
     "fontSize": 20,
     "link": "https://cornandbutter.github.io/games2/tapgoal/index.html",
     "image": "images/tapgoal.png"
+  },
+  {
+    "name": "Super Mario 64",
+    "fontSize": 18,
+    "link": "https://cornandbutter.github.io/games2/mario64/index.html",
+    "image": "images/sm64.jpg"
   }
 ]
