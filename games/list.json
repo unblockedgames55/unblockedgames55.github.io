@@ -835,13 +835,13 @@
   },
   {
     "name": "Super Mario Bros. 2",
-    "fontSize": 18,
+    "fontSize": 16,
     "link": "https://cornandbutter.github.io/webretro/index.html?core=nestopia&rom=smb2.nes",
     "image": "images/smb2.jpg"
   },
   {
     "name": "Super Mario Bros. 3",
-    "fontSize": 18,
+    "fontSize": 16,
     "link": "https://cornandbutter.github.io/webretro/index.html?core=nestopia&rom=smb3.nes",
     "image": "images/smb3.jpg"
   },
