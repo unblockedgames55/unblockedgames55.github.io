@@ -847,7 +847,7 @@
   },
   {
     "name": "Super Mario World",
-    "fontSize": 20,
+    "fontSize": 16,
     "link": "https://cornandbutter.github.io/webretro/index.html?core=snes9x&rom=smworld.smc",
     "image": "images/smworld.jpg"
   }
